@@ -35,7 +35,7 @@
     <form id="formularios" action="mensaje.php" method="post">
       <div class="row">
           <div class=" offset-2 col-2 "><br><br>
-            Nombre:
+            Nombre de la persona:
           </div><div class="col-4 "><br><br>
           <div class=" form-group ">
             <input class="form-control" type="text" name="nombre" />
